@@ -85,7 +85,8 @@ body:
       options:
         - "WineD3D (default)"
         - "D3DMetal (Apple silicon & 64-bit only)"
-        - "DXVK (winetricks verb)"
+        - "DXMT (Apple silicon & 64-bit only)"
+        - "DXVK"
         - "D9VK (winetricks verb)"
       default: 0
     validations:
