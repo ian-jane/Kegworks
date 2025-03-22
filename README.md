@@ -31,7 +31,8 @@ This project supports *macOS 10.15.4* or later.
 > - WineD3D (default) Supports DirectX 11 and below.
 > - VKD3D (default) Limited DirectX 12 support.
 > - D9VK (winetricks) DirectX 9 via Vulkan.
-> - DXVK (winetricks) DirectX 10 & 11 via Vulkan.
+> - DXMT (toggle) DirectX 11 via Metal.
+> - DXVK (toggle) DirectX 10 & 11 via Vulkan.
 > - D3DMetal (toggle) 64Bit DirectX 11 & 12 via Metal.
 >
 > <br>
@@ -55,7 +56,6 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that fall under LGPL-2.1 license
 - `Kegworks Winery.app` (renamed/tweaked Wineskin Winery)
-- `Wineskin.app` (tweaked)
 
 sources can be found https://github.com/Gcenx/wineskin-source/tree/Kegworks
 
@@ -63,7 +63,8 @@ sources can be found https://github.com/Gcenx/wineskin-source/tree/Kegworks
 
 ## Components that don't fall under LGPG-2.1 license
 _Kegworks Winery-2.0.3/Wineskin-3.0.6-1 or greater_
-- `wineskinlauncher` (Kegworks in wineskin compatibility mode)
+- `Kegworks` (Running in wineskin compatibility mode)
+- `KegworksConfig` (replaced `Wineskin.app`)
 
 <br>
 
