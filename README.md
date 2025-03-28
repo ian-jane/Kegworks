@@ -56,7 +56,7 @@ This project supports *macOS 10.15.4* or later.
 
 ## Components that fall under LGPL-2.1 license
 - `Kegworks Winery.app` (renamed/tweaked Wineskin Winery)
-- `Wineskin.app` (tweak for Kegworks)
+- `Wineskin.app` (tweaked for Kegworks)
 
 sources can be found https://github.com/Gcenx/wineskin-source/tree/Kegworks
 
