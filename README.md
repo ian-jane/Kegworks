@@ -5,7 +5,8 @@ This project supports *macOS 10.15.4* or later.
 <br>
 
 [![ko-fi](https://img.shields.io/badge/kofi-Donate-blue?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/gcenx)
-[![](https://dcbadge.limes.pink/api/server/vJTjDyzJM2?compact=true)](https://discord.gg/Kwj7wUVNfp)
+
+[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://discord.gg/Kwj7wUVNfp)
 
 <br>
 
