@@ -31,7 +31,7 @@ This project supports *macOS 10.15.4* or later.
 > - WineD3D (default) Supports DirectX 11 and below.
 > - VKD3D (default) Limited DirectX 12 support.
 > - D3DMetal (toggle) 64Bit DirectX 11 & 12 via Metal (Apple Silicon Macs).
-> - DXMT (toggle) 64Bit DirectX 11 via Metal (Apple Silicon Macs).
+> - DXMT (toggle) DirectX 11 via Metal (Apple Silicon Macs).
 > - DXVK (toggle) DirectX 10 & 11 via Vulkan.
 > - D9VK (winetricks) DirectX 9 via Vulkan (experimental and no longer being developed).
 >
