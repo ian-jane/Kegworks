@@ -58,7 +58,7 @@ sources can be found https://github.com/Gcenx/wineskin-source/tree/Sikarugir
 <br>
 
 ## Components that don't fall under LGPL-2.1 license
-_Creator-2.0.3/Wineskin-3.0.6-1 or greater_
+_Creator-1.0/Wineskin-3.0.6-1 or greater_
 - `Launcher` (Running in wineskin compatibility mode)
 - `Configure` (replaced `Wineskin.app`)
 
