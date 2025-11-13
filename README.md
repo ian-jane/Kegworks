@@ -13,7 +13,7 @@ This project supports *macOS 10.15.4* or later.
 > How to install using [homebrew](https://brew.sh/)
 > ```
 > brew upgrade
-> brew install --cask --no-quarantine Sikarugir-App/sikarugir/sikarugir
+> brew install --cask Sikarugir-App/sikarugir/sikarugir
 > ```
 
 <br>
